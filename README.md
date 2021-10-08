@@ -1,5 +1,5 @@
 # pertemuan1_intent
 
-Nama : Rizky Adi Ryanto
+Nama : Novitasari
 <br>
 ini merupakan apps praktikum MBKM ITN MALANG
